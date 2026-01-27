@@ -1,0 +1,3 @@
+-->Learned the functions in I2C code
+-->Did led blink on board
+-->Read programming guide document about i2c and gpio
