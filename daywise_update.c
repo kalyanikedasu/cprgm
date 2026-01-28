@@ -1,3 +1,11 @@
+27/01/2026
 -->Learned the functions in I2C code
 -->Did led blink on board
 -->Read programming guide document about i2c and gpio
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------28/01/2026
+-->Worked on MQ-135 gas sensor
+-->First drew a block diagram of sensor and microcontroller
+-->Then gone through the datasheet of MQ-135
+-->Then checked the sample code 
+-->Wrote code for MQ-135 sensor and flashed it 
+-->Then checked minicom and got
