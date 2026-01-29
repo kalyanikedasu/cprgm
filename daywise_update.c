@@ -9,3 +9,12 @@
 -->Then checked the sample code 
 -->Wrote code for MQ-135 sensor and flashed it 
 -->Then checked minicom and got
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------29/01/2026
+-->Worked on board to board communication using SPI peripheral
+-->First in my pc took a master code related to my previous MQ-135 sensor project 
+-->Got some errors they were due to path that i didn't set
+-->Then clean,make,flashed
+-->Then connected through spi to another pc
+-->But got garbage value...Need to work on it
+-->Tried just hello that too didn't work
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
