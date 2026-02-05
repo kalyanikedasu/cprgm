@@ -1,0 +1,37 @@
+27/01/2026
+-->Learned the functions in I2C code
+-->Did led blink on board
+-->Read programming guide document about i2c and gpio
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------28/01/2026
+-->Worked on MQ-135 gas sensor
+-->First drew a block diagram of sensor and microcontroller
+-->Then gone through the datasheet of MQ-135
+-->Then checked the sample code 
+-->Wrote code for MQ-135 sensor and flashed it 
+-->Then checked minicom and got
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------29/01/2026
+-->Worked on board to board communication using SPI peripheral
+-->First in my pc took a master code related to my previous MQ-135 sensor project 
+-->Got some errors they were due to path that i didn't set
+-->Then clean,make,flashed
+-->Then connected through spi to another pc
+-->But got garbage value...Need to work on it
+-->Tried just hello that too didn't work
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+30/01/2026
+-->Worked on same previous day part of the project and still didn't get 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------31/01/2026
+-->Worked on printing MQ-135 output on I2C 16x2LCD 
+-->Didn't get output
+-->Then tried printing only hello didn't get
+-->Need to work on it
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+02/02/2026
+-->Initially tried to print hello on LCD
+-->Got to print it then worked on MQ-135 
+-->Got output 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------04/02/2026
+-->Displayed DHT-11sensor data in minicom using spi protocol
+-->Got output
+-->Tried to display through tty didn't get
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
